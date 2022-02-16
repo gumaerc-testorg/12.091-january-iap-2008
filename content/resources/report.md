@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Sample student presentation on the Uplifting Ries Impact Crater.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/b4f218179a4b2a800b7d98c874e1da9f_report.pdf
+file: /media/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/b4f218179a4b2a800b7d98c874e1da9f_report.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: report.pdf
 uid: b4f21817-9a4b-2a80-0b7d-98c874e1da9f

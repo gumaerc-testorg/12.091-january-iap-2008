@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture slides with an introduction to terrestrial impact cratering,
   a review of terminology, historic understanding, motivation, identification criteria,
   and examples of impact craters.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/b03ed9091150acdd1d38222e9d769b08_session1.pdf
+file: /media/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/b03ed9091150acdd1d38222e9d769b08_session1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session1.pdf
 uid: b03ed909-1150-acdd-1d38-222e9d769b08

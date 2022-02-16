@@ -6,8 +6,13 @@ description: Lecture slides on tools of analysis of impact cratering, including 
   parameters, concepts of hydrocode modeling, age determination by conventional K
   ?Ar method, neutron activation analysis, inductively coupled plasma mass spectrometry,
   and electron microprobe analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/f95a06c1bc04211ea9ff46b4879caf63_session3.pdf
+file: /media/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/f95a06c1bc04211ea9ff46b4879caf63_session3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session3.pdf
 uid: f95a06c1-bc04-211e-a9ff-46b4879caf63
