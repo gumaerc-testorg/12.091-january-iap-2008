@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about readings for the course, including
+  a list of references by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -180,7 +182,7 @@ French, B. M. _Traces of Catastrophe._ Houston, Tx: Lunar and Planetary Institut
 
 Gault D. E. "Impact Cratering." In _A Primer in Lunar Geology_. Edited by R. Greeley and P. H. Shultz. Moffett Field, CA: NASA Ames Research Center, 1974, pp. 137-175.
 
-Glass, B. J., S. Domville, and P. Lee. "Further Geophysical Studies of the Haughton Impact Structure." _Lunar and Planetary Science_ XXXVI (2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://ti.arc.nasa.gov/m/pub-archive/953h/0953%20(Glass).pdf))
+Glass, B. J., S. Domville, and P. Lee. "Further Geophysical Studies of the Haughton Impact Structure." _Lunar and Planetary Science_ XXXVI (2005). ([PDF](https://ti.arc.nasa.gov/m/pub-archive/953h/0953%20(Glass).pdf))
 
 Grieve, R. A. F., and M. J. Cintala. "An Analysis of Differential Impact Melt-crater Scaling and Implications for the Terrestrial Impact Record." _Meteoritics_ 27 (1992): 526-538.
 
