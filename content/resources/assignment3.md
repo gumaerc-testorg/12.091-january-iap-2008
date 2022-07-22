@@ -6,6 +6,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment3.pdf
 uid: ab27bcbc-1499-e024-b3a8-3a7f45c5c0e1
 ---
 Assignment to review materials on the Chicxulub Impact Crater, the Sudbury Impact Structure, the Mjolnir Impact Structure, and the Vredefort Impact Structure.
-

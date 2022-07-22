@@ -5,6 +5,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: report.pdf
 uid: b4f21817-9a4b-2a80-0b7d-98c874e1da9f
 ---
 Sample student presentation on the Uplifting Ries Impact Crater.
-

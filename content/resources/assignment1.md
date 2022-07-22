@@ -6,6 +6,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment1.pdf
 uid: 19325537-12ae-cfbb-be51-f72300264743
 ---
 Assignment to write and present a literature survey report on an impact crater.
-

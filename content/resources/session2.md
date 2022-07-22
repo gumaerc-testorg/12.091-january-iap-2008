@@ -6,6 +6,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: session2.pdf
 uid: 387e42b4-5251-0d37-46be-6b93c90c117b
 ---
 Lecture slides with a review of some major research studies of terrestrial impact craters, including Chicxulub, Mjolnir, Sudbury, and Vredefort.
-

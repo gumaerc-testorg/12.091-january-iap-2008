@@ -5,6 +5,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: presentation.pdf
 uid: d8a24b7b-8194-2d8c-d19d-ca7ebe05be78
 ---
 Sample student presentation on the Ries Impact Crater.
-

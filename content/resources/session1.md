@@ -7,6 +7,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: session1.pdf
 uid: b03ed909-1150-acdd-1d38-222e9d769b08
 ---
 Lecture slides with an introduction to terrestrial impact cratering, a review of terminology, historic understanding, motivation, identification criteria, and examples of impact craters.
-

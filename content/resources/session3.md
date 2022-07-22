@@ -10,6 +10,7 @@ file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemi
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: session3.pdf
 uid: f95a06c1-bc04-211e-a9ff-46b4879caf63
 ---
 Lecture slides on tools of analysis of impact cratering, including basic principles of aeromagnetic survey measurement, basic principles of gravity anamoly measurement, phenomenology of impact cratering, determination of impact cratering parameters, concepts of hydrocode modeling, age determination by conventional K ?Ar method, neutron activation analysis, inductively coupled plasma mass spectrometry, and electron microprobe analysis.
-
