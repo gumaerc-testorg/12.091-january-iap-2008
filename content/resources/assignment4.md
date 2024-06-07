@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on kinetic energy of crater impacts.
 file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/30a847140a835557d7a7c9727a535dd7_assignment4.pdf
+file_size: 30072
 file_type: application/pdf
 learning_resource_types:
 - Assignments
