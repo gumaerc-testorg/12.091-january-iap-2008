@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to write and present a literature survey report on an impact
   crater.
-file: /ol-ocw-studio-app/courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/1932553712aecfbbbe51f72300264743_assignment1.pdf
+file: /courses/12-091-basics-of-impact-cratering-geological-geophysical-geochemical-environmental-studies-of-some-impact-craters-of-the-earth-january-iap-2008/1932553712aecfbbbe51f72300264743_assignment1.pdf
 file_size: 32384
 file_type: application/pdf
 learning_resource_types:
